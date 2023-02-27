@@ -1,0 +1,17 @@
+{
+  "name": "myBrain",
+  "version": "1.0.0",
+  "description": "some knowledge in my brain",
+  "main": "index.js",
+  "author": "WangYijun",
+  "license": "MIT",
+  "devDependencies": {
+    "markdown-it-mathjax3": "^4.3.2",
+    "vitepress": "^1.0.0-alpha.47"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  }
+}
