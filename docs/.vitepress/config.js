@@ -99,7 +99,7 @@ export default defineConfig({
     docFooter: { prev: "上一篇", next: "下一篇" },
     nav: [
       { text: "社区工作者", link: "/guild/sqgzz/sgzs" },
-      { text: "数量关系", link: "/guild/gwy/slgx" },
+      { text: "公务员", link: "/guild/gwy/slgx" },
     ],
     socialLinks: [{ icon: "github", link: "https://gitee.com" }],
     sidebar: {
