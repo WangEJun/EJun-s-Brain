@@ -1,3 +1,5 @@
+import "./chunk-JC4IRQUL.js";
+
 // node_modules/vitepress/dist/client/theme-default/index.js
 import "D:/StudyWeb/web/vitepress-starter/node_modules/vitepress/dist/client/theme-default/styles/fonts.css";
 import "D:/StudyWeb/web/vitepress-starter/node_modules/vitepress/dist/client/theme-default/styles/vars.css";

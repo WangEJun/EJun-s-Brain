@@ -1,19 +1,29 @@
 {
-  "hash": "ac9f13fa",
-  "browserHash": "3b61cb65",
+  "hash": "5b4e3f51",
+  "browserHash": "da1b40cb",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "56a51fad",
+      "fileHash": "78afabb8",
       "needsInterop": false
     },
     "@theme/index": {
       "src": "../../../../node_modules/vitepress/dist/client/theme-default/index.js",
       "file": "@theme_index.js",
-      "fileHash": "4f669e55",
+      "fileHash": "8fa38e51",
+      "needsInterop": false
+    },
+    "echarts": {
+      "src": "../../../../node_modules/echarts/index.js",
+      "file": "echarts.js",
+      "fileHash": "65e2dc3f",
       "needsInterop": false
     }
   },
-  "chunks": {}
+  "chunks": {
+    "chunk-JC4IRQUL": {
+      "file": "chunk-JC4IRQUL.js"
+    }
+  }
 }

@@ -100,6 +100,7 @@ export default defineConfig({
     nav: [
       { text: "社区工作者", link: "/guild/sqgzz/sgzs" },
       { text: "公务员", link: "/guild/gwy/slgx" },
+      // { text: "地图", link: "/guild/map/dqjd" },
     ],
     socialLinks: [{ icon: "github", link: "https://gitee.com" }],
     sidebar: {
