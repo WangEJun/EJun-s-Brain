@@ -1,7 +1,7 @@
 ---
 layout: home
 
-title: 王奕峻的脑子
+title: 望远镜的脑子
 titleTemplate: 一个个人知识库
 
 hero:
@@ -9,12 +9,12 @@ hero:
   text: 一个个人知识库
   tagline: 没啥特点仅供学习
   image:
-    src: /logo.gif
+    src: /images/logo.gif
     alt: 图片
   actions:
     - theme: brand
       text: 开始
-      link: /guild/gwy/slgx.md
+      link: /guild/sqgzz/sgzs.md
     - theme: alt
       text: 在 Gitee 上查看
       link: https://gitee.com/wang-ejun

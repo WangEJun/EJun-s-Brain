@@ -12,7 +12,8 @@
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs"
+    "docs:serve": "vitepress serve docs",
+    "deploy": "./deploy.sh"
   },
   "dependencies": {
     "echarts": "^5.4.1",

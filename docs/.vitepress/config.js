@@ -140,8 +140,11 @@ export default defineConfig({
       ],
     },
     outline: {
-      label: "大纲",
+      label: "本页内容",
     },
+    sidebarMenuLabel: "本页内容",
+    returnToTopLabel: "返回顶部",
+    darkModeSwitchLabel: "切换主题",
   },
   markdown: {
     config: md => {
