@@ -145,7 +145,7 @@ export default defineConfig({
           items: [
             {
               text: "五行、八卦、支干万物取象",
-              link: "/guild/szbs/wwqx",
+              link: "/guild/szbz/wwqx",
             },
           ],
         },
