@@ -100,6 +100,7 @@ export default defineConfig({
     nav: [
       { text: "社区工作者", link: "/guild/sqgzz/sgzs" },
       { text: "公务员", link: "/guild/gwy/slgx" },
+      { text: "四柱八字", link: "/guild/szbz/slgx" },
       // { text: "地图", link: "/guild/map/dqjd" },
     ],
     socialLinks: [{ icon: "github", link: "https://gitee.com" }],
@@ -118,7 +119,7 @@ export default defineConfig({
             },
             {
               text: "判断推理",
-              link: "/guild/gwy/dlpd",
+              link: "/guild/gwy/tlpd",
             },
           ],
         },
@@ -134,6 +135,17 @@ export default defineConfig({
             {
               text: "如何做好社区工作者",
               link: "/guild/sqgzz/howTodo",
+            },
+          ],
+        },
+      ],
+      "/guild/szbz": [
+        {
+          text: "四柱八字",
+          items: [
+            {
+              text: "五行、八卦、干支万物取象",
+              link: "/guild/sqgzz/wwqx",
             },
           ],
         },
